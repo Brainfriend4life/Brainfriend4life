@@ -1,0 +1,51 @@
+body {
+background-color: pink;
+justify-content: center;
+min-height: 100vh;
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnJlZaypTsQnBC9dEPjJ5m563ZNFQWeBy7Uw&s");
+background-repeat: no-repeat;
+background-size: cover;
+filter: brightness(100%);
+}
+img {
+  width:50px;
+  border-radius: 50px;
+}
+
+h1 {
+color: gold;
+text-align: center;
+font-size: 15px;
+margin-top: -2em;
+margin-left: 2em;
+}
+p {
+  color: pink;
+  text-align: center;
+  font-family: Courier New;
+  font-size: 14px;
+
+  
+}
+#about-me {
+color: cyan;
+  text-align: left;
+  font-family: Arial;
+}
+h2 {
+  font-size: 15px;
+}
+h3 {
+  color:gold;
+  text-align: center;
+  
+}
+li strong {
+  color: navy;
+}
+ul {
+  color: violet;
+}
+footer {
+  text-align: center;
+}
