@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Live Crypto Prices</title>
+  <link rel="stylesheet" href="main.css" />
+</head>
+<body>
+  <div class="crypto-page">
+    <header class="crypto-header">
+      <h1>📈 Live Crypto Prices</h1>
+      <p>Stay updated with top cryptocurrencies and market performance</p>
+    </header>
+
+    <!-- CoinMarquee -->
+    <div id="coinmarketcap-widget-marquee"
+        coins="1,1027,5426,74,5805,6636,2010,52"
+        currency="USD"
+        theme="light"
+        transparent="false"
+        show-symbol-logo="true">
+    </div>
+
+    <!-- Coin Price Table -->
+    <div id="coinmarketcap-widget-coincarousel"
+        coins="1831,1,1027,825,1839,52,3408,6636,2010,1958,20947,74"
+        currency="USD"
+        theme="light"
+        transparent="false"
+        show-symbol-logo="true">
+    </div>
+
+
+
+  <script src="https://files.coinmarketcap.com/static/widget/coinMarquee.js"></script>
+  <script src="https://files.coinmarketcap.com/static/widget/coinCarousel.js"></script>
+</body>
+</html>

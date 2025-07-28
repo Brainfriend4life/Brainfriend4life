@@ -132,3 +132,29 @@ footer .socials i {
 #backToTop:hover {
   background-color: #444;
 }
+
+.crypto-page {
+  max-width: 960px;
+  margin: auto;
+  padding: 20px;
+}
+
+.crypto-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.crypto-header h1 {
+  font-size: 2rem;
+  color: #2c3e50;
+}
+
+.crypto-header p {
+  color: #555;
+}
+
+.chart-section h2 {
+  text-align: center;
+  margin: 20px 0;
+}
+
