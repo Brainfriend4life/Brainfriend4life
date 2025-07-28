@@ -18,9 +18,7 @@
     });
   });
 
-// Inject CoinMarketCap Marquee Widget
-window.addEventListener('DOMContentLoaded', () => {
-  const widget = document.getElementById('coinmarketcap-widget-marquee');
+
 
   
 
