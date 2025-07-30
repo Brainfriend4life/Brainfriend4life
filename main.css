@@ -155,5 +155,24 @@ footer .socials i {
   background-color: #444;
 }
 
+.taglines {
+  text-align: center;
+  word-spacing: 5px;
+  background-color: #224;
+  font-family: Tahoma;
+  padding: 1em;
+}
+
+  .back {
+    background-color: #224;
+    text-align: center;
+    border: 3px  solid green;
+  border-radius: 20px;
+  margin-inline: 22px;
+  }
+  
+  
+
+
 
 
