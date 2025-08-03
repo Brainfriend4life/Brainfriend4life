@@ -171,7 +171,16 @@ footer .socials i {
   margin-inline: 22px;
   }
   
+  .web3 {
+    background: linear-gradient(90deg, #3498db 40%, #2ecc71 60%);
+text-align: center;
+color: black;
+  }
   
+  .article {
+    background: linear-gradient(90deg, #3498db 40%, #2ecc71 60%);
+    
+  }
 
 
 
